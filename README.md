@@ -1,5 +1,5 @@
 # PokemonCV
-###Pokemon card text extraction
+### Pokemon card text extraction
 To activate virtual environment:
 
 1. cd to repo, bash - source bin/activate
