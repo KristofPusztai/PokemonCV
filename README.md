@@ -6,4 +6,4 @@ To activate virtual environment:
 2. bash - jupyter notebook
 
 # Example:
-[image](https://github.com/KristofPusztai/PokemonCV/blob/master/example.jpeg)
+<image> source=(https://github.com/KristofPusztai/PokemonCV/blob/master/example.jpeg)<\image>
